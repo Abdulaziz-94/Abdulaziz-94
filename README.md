@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulaziz-94
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data analyst
+- 👀 I’m interested in data analasys
+- 🌱 I’m currently learning data analasys
 - 💞️ I’m looking to collaborate on getting more in data science
 
 
